@@ -34,9 +34,6 @@ Y Sobre esta base se experimenta con distintos valores de ε (epsilon), que defi
 
 ---
 
-
----
-
 ## 📈 Resultados clave
 
 - Se observa cómo ajustar **ε** afecta directamente a la exploración del espacio de soluciones y, por tanto, al rendimiento global de la campaña.
@@ -57,7 +54,7 @@ Y Sobre esta base se experimenta con distintos valores de ε (epsilon), que defi
 
 ## 🧾 Archivos incluidos
 
-- `multi_armed_bandit_banner_clicks.ipynb` → Notebook con el experimento y conclusiones  
+- `multi_armed_bandit.ipynb` → Notebook con el experimento y conclusiones  
 - `README.md` → Descripción del proyecto
 
 ---
