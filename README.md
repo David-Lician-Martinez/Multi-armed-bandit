@@ -31,3 +31,39 @@ Y Sobre esta base se experimenta con distintos valores de ε (epsilon), que defi
 2. ¿Cuál es la imagen que más clics obtiene y cuántos clics logró?
 
 3. ¿Qué ocurre si se establece una ratio de explotación del 100% (ε = 0)?
+
+---
+
+
+---
+
+## 📈 Resultados clave
+
+- Se observa cómo ajustar **ε** afecta directamente a la exploración del espacio de soluciones y, por tanto, al rendimiento global de la campaña.
+- Se identifican los riesgos de la sobreexplotación (**ε = 0**) y se evidencia el poder del aprendizaje balanceado.
+- El modelo permite aprender la estrategia óptima sin necesidad de conocer de antemano qué banner es mejor.
+
+---
+
+## 🧪 Temas abordados
+
+- Aprendizaje por refuerzo (Reinforcement Learning)  
+- Algoritmo Bandido Multibrazo  
+- Estrategia epsilon-greedy  
+- Optimización en marketing digital  
+- Evaluación empírica de políticas de acción
+
+---
+
+## 🧾 Archivos incluidos
+
+- `multi_armed_bandit_banner_clicks.ipynb` → Notebook con el experimento y conclusiones  
+- `README.md` → Descripción del proyecto
+
+---
+
+## 📬 Contacto
+
+**David Licián Martínez**  
+Data Scientist con enfoque aplicado, comunicativo y estratégico  
+[LinkedIn](https://www.linkedin.com/in/david-lician-martinez/) | [GitHub](https://github.com/David-Lician-Martinez)
