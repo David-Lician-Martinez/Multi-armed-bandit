@@ -63,4 +63,4 @@ Y Sobre esta base se experimenta con distintos valores de ε (epsilon), que defi
 
 **David Licián Martínez**  
 Data Scientist con enfoque aplicado, comunicativo y estratégico  
-[LinkedIn](https://www.linkedin.com/in/david-lician-martinez/) | [GitHub](https://github.com/David-Lician-Martinez)
+[LinkedIn](https://www.linkedin.com/in/david-lician) | [GitHub](https://github.com/David-Lician-Martinez)
