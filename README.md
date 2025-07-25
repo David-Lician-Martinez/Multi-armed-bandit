@@ -1,6 +1,6 @@
 # 🎯 Optimización de Banners con el Algoritmo del Bandido Multibrazo
 
-**Autor:** David Licián Martínez  
+**Autor:** David Licián Martínez; 25/07/2025  
 **Tipo de proyecto:** Aprendizaje por Refuerzo (Reinforcement Learning) aplicado  
 **Lenguaje:** Python  
 **Tema:** Optimización de campañas de marketing online
